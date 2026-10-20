@@ -1,0 +1,116 @@
+crop_name,rows,years,states,pct_missing_production,median_yield
+Rice,31636,26,33,0.13,2.149
+Maize,30781,26,32,0.58,2.028
+Moong(Green Gram),23419,26,30,1.23,0.493
+Urad,22104,26,31,0.88,0.522
+Groundnut,18623,26,29,0.38,1.209
+Sesamum,17307,26,31,1.8,0.36
+Onion,14822,26,25,0.36,11.746500000000001
+Potato,14108,26,28,0.19,10.462499999999999
+Jowar,13841,26,24,0.63,1.0
+Arhar/Tur,13230,26,30,0.91,0.793
+Wheat,12905,26,31,0.22,2.066
+Rapeseed &Mustard,12661,26,33,0.91,0.8
+Sugarcane,12483,26,31,0.93,55.902
+Gram,12119,26,29,1.19,0.883
+Dry Chillies,11141,26,25,0.73,1.0
+Bajra,10376,26,24,0.54,1.188
+Sunflower,9763,26,24,1.45,0.829
+Peas & Beans (Pulses),9094,26,22,0.96,1.01
+Small Millets,8674,26,28,1.45,0.647
+Cotton(Lint),8204,26,26,1.94,1.736
+Ragi,8035,26,22,0.4,1.177
+Horse-Gram,7854,26,17,1.73,0.452
+Masoor,7460,26,26,1.17,0.746
+Turmeric,6776,26,24,0.55,2.274
+Linseed,6732,26,22,1.47,0.5
+Sweet Potato,6721,26,21,1.28,9.167
+Barley,6713,26,16,1.24,1.812
+Other Kharif Pulses,6623,26,29,1.96,0.512
+Soyabean,6160,26,25,0.57,1.007
+Coriander,5776,26,17,1.44,0.5285
+Other Rabi Pulses,5712,26,32,2.42,0.62
+Garlic,5702,26,19,1.3,3.1905
+Castor Seed,5618,26,18,3.29,0.5
+Ginger,5428,26,24,0.63,4.946
+Banana,5203,26,21,2.23,25.27
+Tobacco,4527,26,23,1.7,1.501
+Niger Seed,3386,26,14,2.51,0.299
+Cowpea(Lobia),3365,16,17,1.93,0.643
+Sannhamp,3315,26,16,8.51,0.452
+Coconut,3303,26,13,1.09,8094.13
+Tapioca,2762,26,13,0.14,13.0
+Mesta,2724,26,15,1.36,5.0
+Arecanut,2532,26,10,1.66,1.203
+Guar Seed,2483,24,8,1.73,0.75
+Other Cereals,2400,25,13,2.29,0.714
+Jute,2177,26,14,3.49,9.587
+Safflower,2096,26,10,1.77,0.537
+Khesari,2011,26,5,0.3,0.794
+Other Oilseeds,1932,24,20,2.64,0.5125
+Cashewnut,1872,26,12,2.88,0.399
+Black Pepper,1728,26,9,2.72,0.5505
+Moth,1628,26,10,7.43,0.3645
+Cardamom,691,26,5,13.31,0.084
+Papaya,487,6,11,0.0,15.767
+Mango,451,12,12,0.0,3.047
+Brinjal,432,7,8,0.0,6.827500000000001
+Other Fresh Fruits,420,9,13,0.0,0.0
+Tomato,407,5,7,0.0,8.0
+Other Vegetables,391,9,12,0.0,0.0
+Citrus Fruit,301,2,8,0.0,1.057
+Pome Fruit,297,2,7,0.0,3.138
+Orange,271,6,7,0.0,9.831
+Pineapple,257,11,6,0.0,14.786
+Bhindi,236,2,6,0.0,0.0
+Cabbage,233,5,5,0.43,7.613
+Korra,135,7,3,0.0,0.713
+Grapes,129,5,8,0.0,20.924
+Other Summer Pulses,126,7,3,0.79,0.4
+Cauliflower,122,2,3,0.0,0.0
+Drum Stick,112,5,2,0.0,0.2965
+Jack Fruit,112,3,3,12.5,5.8
+Arcanut (Processed),99,4,1,0.0,2.0
+Dry Ginger,93,3,2,0.0,2.515
+Cucumber,93,2,3,0.0,0.0
+Samai,93,7,3,0.0,0.529
+Bitter Gourd,92,2,3,0.0,0.0
+Water Melon,85,2,3,0.0,0.0
+Bottle Gourd,84,2,4,0.0,0.0
+Snak Guard,82,2,2,0.0,0.0
+Other Misc. Pulses,80,2,5,0.0,0.213
+Other Citrus Fruit,69,2,2,0.0,0.0
+Pome Granet,66,5,2,0.0,0.0
+Tea,62,6,2,0.0,2.286
+Redish,61,2,3,0.0,0.0
+Varagu,59,7,3,0.0,1.0
+Lab-Lab,48,2,1,0.0,0.0
+Ash Gourd,44,2,1,0.0,0.0
+Lemon,39,3,1,0.0,7.357
+Sapota,39,3,1,0.0,9.407
+Ribed Guard,38,2,1,0.0,0.0
+Yam,36,2,1,0.0,0.0
+Cashewnut Raw,35,1,2,0.0,0.467
+Cond-Spcs Other,32,4,3,0.0,0.8005
+Rubber,29,3,2,0.0,1.187
+Carrot,28,2,3,0.0,7.1015
+Rajmash Kholar,27,1,1,0.0,1.252
+Cashewnut Processed,21,1,1,0.0,0.109
+Atcanut (Raw),20,1,1,0.0,6.7
+Jute & Mesta,20,5,1,0.0,8.0195
+Beet Root,16,2,1,0.0,0.0
+Kapas,12,3,3,0.0,0.912
+Ber,11,2,1,0.0,0.0
+Colocosia,11,1,1,0.0,9.509
+Peas (Vegetable),11,2,2,0.0,0.0
+Ricebean (Nagadal),10,1,1,0.0,1.1099999999999999
+Jobster,9,1,1,0.0,1.0
+Perilla,9,1,1,0.0,0.6
+Turnip,8,2,3,0.0,0.5085
+Coffee,6,2,1,0.0,0.74
+Pear,6,2,1,0.0,0.0
+Litchi,6,2,1,0.0,0.0
+Plums,6,2,1,0.0,0.0
+Apple,4,2,1,0.0,0.0
+Peach,4,2,1,0.0,0.0
+Other Dry Fruit,1,1,1,0.0,0.0

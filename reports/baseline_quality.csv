@@ -1,0 +1,14 @@
+,value
+rows,455359
+columns,16
+missing_production,5009
+missing_area,0
+missing_crop_code,21
+zero_production,3997
+exact_duplicates_excl_id,0
+duplicate_keys,0
+groups_total_plus_other_seasons,48043
+groups_wholeyear_plus_other_seasons,560
+crop_codes_shared_by_multiple_names,10
+yield_mismatch_gt_5pct,181
+yield_outliers_3iqr,4375
