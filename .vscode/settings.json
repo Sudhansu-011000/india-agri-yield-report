@@ -1,0 +1,17 @@
+{
+    "python.terminal.useEnvFile": true,
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5433,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "PG_17(33)",
+            "database": "Agri-yield",
+            "username": "postgres",
+            "connectionTimeout": 30
+        }
+    ]
+}
