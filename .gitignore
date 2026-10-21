@@ -226,3 +226,5 @@ data/processed/
 .env
 __pycache__/
 .venv/
+PG_17(33).session.sql
+.vscode/
