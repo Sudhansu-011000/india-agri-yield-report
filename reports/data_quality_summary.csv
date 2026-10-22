@@ -1,0 +1,9 @@
+metric,before,after
+Checks with zero unresolved rows (out of 10),3,10
+Rows with at least one hidden issue,111612,0
+Rows with at least one hidden issue (%),24.51,0.0
+"Rows carrying a visible flag (issue marked, not hidden)",0,76151
+In-scope area overstated if all rows are summed (%),31.6,0.0
+In-scope production overstated if all rows are summed (%),14.3,0.0
+Distinct crop names / crops,115,111
+Rows in analysis table,455359,347888

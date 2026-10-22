@@ -1,0 +1,11 @@
+dimension,check,rows_before,rows_unresolved_after,rows_handled_after
+Completeness,Fake yield of 0 stored where production is blank,5009,0,5009
+Completeness,Crop identifier missing,21,0,21
+Validity,Crop name is a known variant or typo,16409,0,16409
+Validity,Non-tonnage crop (nuts/bales) not labelled,16428,0,16428
+Validity,Extreme yield outlier not flagged,4190,0,4190
+Consistency,Crop code shared by different crops,35017,0,35017
+Consistency,Total row overlaps its own seasons (double-count risk),48044,0,48044
+Consistency,Reported yield differs from production / area (rounding-aware),0,0,0
+Completeness,"Required fields blank (year, state, district, crop, season)",0,0,0
+Consistency,Duplicate keys,0,0,0
