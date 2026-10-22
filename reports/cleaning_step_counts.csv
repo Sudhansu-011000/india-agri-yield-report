@@ -1,0 +1,15 @@
+step,issue,rows_affected
+1-types,area: values lost during numeric conversion,0
+1-types,production: values lost during numeric conversion,0
+1-types,yield: values lost during numeric conversion,0
+1b-names,state_name blank in staging,0
+1b-names,district_name blank in staging,1
+1b-names,district_name recovered from code,1
+2-missing,"production blank (kept as NULL, flagged)",5009
+2-missing,placeholder yield reset to NULL,5009
+2-missing,"production = 0 with area > 0 (kept, flagged)",3997
+3-crops,rows whose crop name was changed,16409
+3-crops,rows with non-tonnage unit basis (nuts / bales),16428
+4-yield,reported yield differs from production / area,0
+5-outliers,yield above Q3 + 3*IQR within crop (flag only),4190
+6-season,"rows with season = Total (kept, flagged)",48044

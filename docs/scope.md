@@ -24,8 +24,9 @@ Group	Crops
 Cereals (5)	Rice, Wheat, Maize, Jowar, Bajra
 Pulses (4)	Gram, Arhar/Tur, Moong, Urad
 Oilseeds (2)	Groundnut, Rapeseed & Mustard
-Cash crops (2)	Sugarcane, Cotton(Lint)
+Cash crops (2)	Sugarcane, Soyabean
 Vegetables (2)	Potato, Onion
+“Cotton(Lint) removed after unit check: median yield 1.77 ‘tonnes/ha’ implies values are likely bales, not tonnes.”
 Why these: They cover the main food and cash crop groups, each appears in 24 to 33 states, and the data is dense enough for trends.
 Excluded on purpose:
 	Coconut: production is recorded in nuts but labeled “Tonnes”, so yield comparisons would be meaningless. I’ll use it as a worked example in my unit-mismatch 	documentation, but keep it out of the dashboard.
@@ -90,6 +91,4 @@ External data (rainfall, irrigation, fertilizer, MSP prices)
 All 115 crops and all 737 districts in the dashboard
 Real-time or automated data refresh
 Causal claims (why yields rose); I’ll describe trends, not explain them
-
-
-mkdir -p data/raw data/interim data/processed sql src/clean mappings \ notebooks reports/figures app/pages tableau docs tests
+crops reported in non-tonnage units (coconut, cotton, jute, mesta).

@@ -1,0 +1,116 @@
+crop_id,crop_name_raw,crop_name_clean,product_stage,unit_basis,in_scope
+1,Apple,Apple,,tonnes,False
+2,Arcanut (Processed),Arecanut,processed,tonnes,False
+2,Arecanut,Arecanut,,tonnes,False
+3,Arhar/Tur,Arhar/Tur,,tonnes,True
+4,Ash Gourd,Ash Gourd,,tonnes,False
+2,Atcanut (Raw),Arecanut,raw,tonnes,False
+5,Bajra,Bajra,,tonnes,True
+6,Banana,Banana,,tonnes,False
+7,Barley,Barley,,tonnes,False
+8,Beet Root,Beet Root,,tonnes,False
+9,Ber,Ber,,tonnes,False
+10,Bhindi,Bhindi,,tonnes,False
+11,Bitter Gourd,Bitter Gourd,,tonnes,False
+12,Black Pepper,Black Pepper,,tonnes,False
+13,Bottle Gourd,Bottle Gourd,,tonnes,False
+14,Brinjal,Brinjal,,tonnes,False
+15,Cabbage,Cabbage,,tonnes,False
+16,Cardamom,Cardamom,,tonnes,False
+17,Carrot,Carrot,,tonnes,False
+18,Cashewnut,Cashewnut,,tonnes,False
+18,Cashewnut Processed,Cashewnut,processed,tonnes,False
+18,Cashewnut Raw,Cashewnut,raw,tonnes,False
+19,Castor Seed,Castor Seed,,tonnes,False
+20,Cauliflower,Cauliflower,,tonnes,False
+21,Citrus Fruit,Citrus Fruit,,tonnes,False
+22,Coconut,Coconut,,nuts,False
+23,Coffee,Coffee,,tonnes,False
+24,Colocosia,Colocasia,,tonnes,False
+25,Cond-Spcs Other,Cond-Spcs Other,,tonnes,False
+26,Coriander,Coriander,,tonnes,False
+27,Cotton(Lint),Cotton(Lint),,bales,False
+28,Cowpea(Lobia),Cowpea(Lobia),,tonnes,False
+29,Cucumber,Cucumber,,tonnes,False
+30,Drum Stick,Drum Stick,,tonnes,False
+31,Dry Chillies,Dry Chillies,,tonnes,False
+32,Dry Ginger,Dry Ginger,,tonnes,False
+33,Garlic,Garlic,,tonnes,False
+34,Ginger,Ginger,,tonnes,False
+35,Gram,Gram,,tonnes,True
+36,Grapes,Grapes,,tonnes,False
+37,Groundnut,Groundnut,,tonnes,True
+38,Guar Seed,Guar Seed,,tonnes,False
+39,Horse-Gram,Horse-Gram,,tonnes,False
+40,Jack Fruit,Jack Fruit,,tonnes,False
+41,Jobster,Jobster,,tonnes,False
+42,Jowar,Jowar,,tonnes,True
+43,Jute,Jute,,bales,False
+44,Jute & Mesta,Jute & Mesta,,bales,False
+45,Kapas,Kapas,,tonnes,False
+46,Khesari,Khesari,,tonnes,False
+47,Korra,Korra,,tonnes,False
+48,Lab-Lab,Lab-Lab,,tonnes,False
+49,Lemon,Lemon,,tonnes,False
+50,Linseed,Linseed,,tonnes,False
+51,Litchi,Litchi,,tonnes,False
+52,Maize,Maize,,tonnes,True
+53,Mango,Mango,,tonnes,False
+54,Masoor,Masoor,,tonnes,False
+55,Mesta,Mesta,,bales,False
+56,Moong(Green Gram),Moong(Green Gram),,tonnes,True
+57,Moth,Moth,,tonnes,False
+58,Niger Seed,Niger Seed,,tonnes,False
+59,Onion,Onion,,tonnes,True
+60,Orange,Orange,,tonnes,False
+61,Other Cereals,Other Cereals,,tonnes,False
+62,Other Citrus Fruit,Other Citrus Fruit,,tonnes,False
+63,Other Dry Fruit,Other Dry Fruit,,tonnes,False
+64,Other Fresh Fruits,Other Fresh Fruits,,tonnes,False
+65,Other Kharif Pulses,Other Kharif Pulses,,tonnes,False
+66,Other Misc. Pulses,Other Misc. Pulses,,tonnes,False
+67,Other Oilseeds,Other Oilseeds,,tonnes,False
+68,Other Rabi Pulses,Other Rabi Pulses,,tonnes,False
+69,Other Summer Pulses,Other Summer Pulses,,tonnes,False
+70,Other Vegetables,Other Vegetables,,tonnes,False
+71,Papaya,Papaya,,tonnes,False
+72,Peach,Peach,,tonnes,False
+73,Pear,Pear,,tonnes,False
+74,Peas & Beans (Pulses),Peas & Beans (Pulses),,tonnes,False
+75,Peas (Vegetable),Peas (Vegetable),,tonnes,False
+76,Perilla,Perilla,,tonnes,False
+77,Pineapple,Pineapple,,tonnes,False
+78,Plums,Plums,,tonnes,False
+79,Pome Fruit,Pome Fruit,,tonnes,False
+80,Pome Granet,Pomegranate,,tonnes,False
+81,Potato,Potato,,tonnes,True
+83,Ragi,Ragi,,tonnes,False
+84,Rajmash Kholar,Rajmash Kholar,,tonnes,False
+85,Rapeseed &Mustard,Rapeseed & Mustard,,tonnes,True
+82,Redish,Radish,,tonnes,False
+88,Ribed Guard,Ridged Gourd,,tonnes,False
+86,Rice,Rice,,tonnes,True
+87,Ricebean (Nagadal),Ricebean (Nagadal),,tonnes,False
+89,Rubber,Rubber,,tonnes,False
+90,Safflower,Safflower,,tonnes,False
+91,Samai,Samai,,tonnes,False
+99,Sannhamp,Sunn Hemp,,tonnes,False
+92,Sapota,Sapota,,tonnes,False
+93,Sesamum,Sesamum,,tonnes,False
+94,Small Millets,Small Millets,,tonnes,False
+95,Snak Guard,Snake Gourd,,tonnes,False
+96,Soyabean,Soyabean,,tonnes,True
+97,Sugarcane,Sugarcane,,tonnes,True
+98,Sunflower,Sunflower,,tonnes,False
+100,Sweet Potato,Sweet Potato,,tonnes,False
+101,Tapioca,Tapioca,,tonnes,False
+102,Tea,Tea,,tonnes,False
+103,Tobacco,Tobacco,,tonnes,False
+104,Tomato,Tomato,,tonnes,False
+105,Turmeric,Turmeric,,tonnes,False
+106,Turnip,Turnip,,tonnes,False
+107,Urad,Urad,,tonnes,True
+108,Varagu,Varagu,,tonnes,False
+109,Water Melon,Water Melon,,tonnes,False
+110,Wheat,Wheat,,tonnes,True
+111,Yam,Yam,,tonnes,False
