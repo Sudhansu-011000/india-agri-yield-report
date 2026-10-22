@@ -1,0 +1,10 @@
+step,issue,rows_affected
+A-rows,source rows in,455359
+A-rows,"annual rows out (one per year, district, crop)",347888
+A-source,annual figure taken from Total,48044
+A-source,annual figure summed from rows,299844
+A-source,groups with a Whole Year row alongside other rows,560
+A-quality,Total disagrees with sum of its rows,86
+A-quality,annual production missing,4431
+A-quality,annual production zero,3805
+A-quality,annual yield outliers (flag only),3657
